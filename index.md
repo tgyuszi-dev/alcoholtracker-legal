@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 2026-04-25
+**Last updated:** 2026-04-27
 
 This Privacy Policy describes how Alcohol Tracker ("the App") handles information when you use it. By installing, opening, or otherwise using the App you accept this Policy in full. **If you do not agree, do not use the App.**
 
