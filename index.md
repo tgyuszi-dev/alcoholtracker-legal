@@ -134,7 +134,7 @@ We may update this Policy at any time without prior notice. Updates take effect 
 
 For account deletion requests or privacy questions:
 
-**Email:** _your-email@example.com_
+**Email:** _gyula.tasnadi.1990@gmail.com_
 
 We will respond at our discretion and within reasonable time. We make no guarantee of response time.
 
