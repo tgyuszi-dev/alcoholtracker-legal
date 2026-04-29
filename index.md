@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 2026-04-27
+**Last updated:** 2026-04-29
 
 This Privacy Policy describes how Alcohol Tracker ("the App") handles information when you use it. By installing, opening, or otherwise using the App you accept this Policy in full. **If you do not agree, do not use the App.**
 
@@ -24,7 +24,7 @@ By using the App you confirm and agree that:
 
 - You are solely responsible for the **accuracy** of any data you enter (drink amounts, weight, dates, notes, profile information, country, language, etc.).
 - You are solely responsible for **safeguarding your account credentials**. Any activity under your account is your responsibility.
-- You are solely responsible for **what you share** with friends inside the App, with the community feed, or with any other user. Once shared, we cannot guarantee or control how others use it.
+- You are solely responsible for **what you share** with friends inside the App or with any other user. Once shared, we cannot guarantee or control how others use it.
 - You are solely responsible for **the legality of your use** of the App in your jurisdiction. You must not use the App where it is prohibited.
 - You are solely responsible for **complying with applicable laws**, including data protection laws if you handle other people's data through the App.
 - You are solely responsible for **backing up your own data**. We do not guarantee data preservation.
@@ -53,7 +53,6 @@ The App processes only what is needed to operate. We minimize collection.
 ### 3.3 Social Features
 - Friend connections (user IDs)
 - Friend requests
-- Community messages (when the feature is enabled). Anything you post may be read by other users.
 
 ### 3.4 Subscription State
 - A single boolean indicating whether your account currently has an active premium subscription. Payment cards are **never** seen or stored by us — Google Play Billing handles all payment data.
@@ -81,11 +80,11 @@ We do not sell data and do not share data with any other third parties beyond th
 
 ---
 
-## 5. Friends and Community
+## 5. Friends
 
 If you connect with another user as a friend, that user can see information you make visible to friends (name, profile picture, sobriety progress, last seen timestamp). Removing a friend revokes that visibility going forward but does not erase data the friend may have already viewed.
 
-If a community feature is enabled in your build, anything you post is visible to other users in the same country. **Do not post anything you would not want made public.** We are not responsible for the conduct of other users or for content posted by other users.
+We are not responsible for the conduct of other users.
 
 ---
 
@@ -93,7 +92,8 @@ If a community feature is enabled in your build, anything you post is visible to
 
 - Account and tracking data are retained while your account exists.
 - Crash reports may be retained by Firebase Crashlytics under Google's retention policy.
-- You may request deletion of your account by contacting us at the address in Section 11. We will use reasonable efforts to delete personal data within a reasonable time, subject to technical, legal, and operational constraints. We make **no guarantee** of the speed or completeness of deletion across backups, caches, or third-party systems.
+- You may delete your account at any time from **Settings → Delete account**. This permanently removes your profile, authentication credentials, and all identifiable data you have entered (sobriety records, drink entries, body metrics, friendships, friend requests). Anonymous reference identifiers (e.g. user-ID strings stored in other users' friend lists) may remain for technical reasons; these contain no personal data and cannot be linked back to you once your account record is deleted.
+- We make **no guarantee** of the speed or completeness of deletion across backups, caches, or third-party systems beyond what is described above.
 
 ---
 
